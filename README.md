@@ -1,4 +1,4 @@
 pdf2swf-nodejs
 ==============
 
-NodeJS wrapper for pdf2swf 
+NodeJS wrapper for pdf2swf
